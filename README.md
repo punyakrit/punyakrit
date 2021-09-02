@@ -16,7 +16,7 @@
 </a>
 <br>
 </br>
-<img align="middle" src="https://discord.c99.nl/widget/theme-2/625640024335056897.png">
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/625640024335056897.png">
 <br>
 <br>
 
