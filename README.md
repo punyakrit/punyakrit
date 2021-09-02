@@ -23,10 +23,9 @@
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/625640024335056897.png">
 <br>
 <br>
-(https://komarev.com/ghpvc/?username=punyakrit&style=for-the-badge)
 
+![](https://komarev.com/ghpvc/?username=Punyakrit&style=flat-square)
 
 </center>
 </div>
-
 
