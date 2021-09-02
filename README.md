@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Punyakrit singh makhni</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 
+
+
+
+
 <div align="center">
 
 
@@ -19,7 +23,7 @@
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/625640024335056897.png">
 <br>
 <br>
-
+![](https://komarev.com/ghpvc/?username=punyakrit&style=for-the-badge)
 
 
 </center>
