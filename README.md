@@ -47,7 +47,7 @@
 <a href="https://twitter.com/punyakrit3">
   <img align="middle" width="40px" src="https://img.icons8.com/dusk/64/000000/twitter-circled.png"/>
 </a>
-<a href="https://instagram.com/punyakrit_singh_22">
+<a href="https://instagram.com/punyakrit.22">
   <img align="middle" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
 </a>
 <a href="https://discordapp.com/users/625640024335056897">
