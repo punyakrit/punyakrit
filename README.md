@@ -9,12 +9,12 @@
   <h2>  Stats Area :
   <br>
   <br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punyakrit&theme=dark" alt="Punyakrit" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Punyakrit&theme=tokyonight" alt="Punyakrit" /></p>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Punyakrit&theme=bear&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Punyakrit&theme=tokyonight&include_all_commits=true&show_icons=true&count_private=true&show_owner=true)
 
 
-  ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punyakrit&show_icons=true&theme=radical)
+  ![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punyakrit&show_icons=true&theme=tokyonight)
 
   
 
