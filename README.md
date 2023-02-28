@@ -45,13 +45,17 @@
 
 
 
-<a href="https://instagram.com/anoopthedev">
+<a href="https://instagram.com/punyakrit.22">
   <img align="middle" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
 </a>
 <a href="https://discord.gg/CxeZaCkXpm">
   <img align="middle" width="40px"
   src="https://img.icons8.com/dusk/50/000000/discord-logo.png">
 </a>
+ <a href="https://miro.medium.com/max/1400/1*CEZSIxeYr6PCxsN6Gr38MQ.png">
+  <img align="middle" width="40px" src="https://www.buymeacoffee.com/punyakrit"/>
+</a>
+ 
 <br>
 </br>
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/625640024335056897.png">
