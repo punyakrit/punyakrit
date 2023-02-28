@@ -52,9 +52,10 @@
   <img align="middle" width="40px"
   src="https://img.icons8.com/dusk/50/000000/discord-logo.png">
 </a>
- <a href="https://miro.medium.com/max/1400/1*CEZSIxeYr6PCxsN6Gr38MQ.png">
-  <img align="middle" width="40px" src="https://www.buymeacoffee.com/punyakrit"/>
+ <a href="https://www.buymeacoffee.com/punyakrit">
+  <img align="middle" width="40px" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg"/>
 </a>
+ 
  
 <br>
 </br>
