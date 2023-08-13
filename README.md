@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Punyakrit Singh Makhni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punyakrit&label=Profile%20views&color=0e75b6&style=flat" alt="punyakrit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punyakrit" alt="punyakrit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=punyakrit&theme=dracula" alt="punyakrit" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -24,8 +24,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/punyakrit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="punyakrit" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punyakrit&show_icons=true&locale=en&layout=compact" alt="punyakrit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=punyakrit&show_icons=true&locale=en&layout=compact&theme=dracula" alt="punyakrit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punyakrit&show_icons=true&locale=en" alt="punyakrit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=punyakrit&show_icons=true&locale=en&theme=dracula" alt="punyakrit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punyakrit&" alt="punyakrit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punyakrit&theme=dracula" alt="punyakrit" /></p>
