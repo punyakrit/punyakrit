@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=punyakrit&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=punyakrit&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=punyakrit&label=Profile%20views&color=0e75b6&style=flat" alt="punyakrit" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
