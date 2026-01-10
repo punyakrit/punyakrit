@@ -1,41 +1,65 @@
-# 👋 Hey, I’m Punyakrit Singh Makhni  
+# 👋 Hey, I’m Punyakrit
 
-🚀 **Full-Stack Engineer | Startup-Ready | Shipping MVPs Fast**  
-I specialize in building and scaling SaaS applications — from **idea → prototype → production**.  
-With hands-on experience across frontend, backend, and cloud infrastructure, I thrive in **early-stage environments** where speed, execution, and adaptability matter most.  
+**Full-Stack Engineer who builds real products, not demo projects.**  
+I design, build, deploy and maintain production SaaS used by real users — from idea to revenue.
 
----
-
-## 🛠️ Tech Stack
-**Frontend:** Next.js • React.js • TypeScript • TailwindCSS • shadcn/ui • Framer Motion  
-**Backend:** Node.js • Express • FastAPI • Supabase • PostgreSQL • MongoDB  
-**Infra & DevOps:** AWS (EC2, S3, RDS, Docker) • Nginx • GitHub Actions • CI/CD Pipelines  
-**Other:** Stripe • Kinde Auth • Web3.js • Socket.io • Terraform  
+I specialize in early-stage and 0→1 systems where speed, ownership and clean engineering matter.
 
 ---
 
-## 📈 What I Focus On
-- Building **0→1 products** quickly and iterating fast  
-- Designing **scalable APIs & backend infrastructure**  
-- Deploying and optimizing apps on **AWS & modern DevOps stacks**  
-- Writing clean, maintainable, and production-grade code  
+## What I Actually Do
+
+• Build startup-grade MVPs that can scale  
+• Design clean, future-proof database architectures  
+• Ship fast without creating tech debt  
+• Own production infrastructure and deployments  
+• Turn rough ideas into stable SaaS products
+
+If your product needs to go from “idea” to “real business”, this is my zone.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punyakrit&show_icons=true&theme=radical" alt="Punyakrit's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyakrit&layout=compact&theme=radical" height="180"/>
-</p>
+## My Stack (battle-tested)
+
+### Frontend
+Next.js, React, TypeScript, Tailwind, Shadcn UI, Framer Motion
+
+### Backend
+Node.js, Express, FastAPI, PostgreSQL, Supabase, Prisma
+
+### Infra & DevOps
+Docker, AWS EC2, Nginx, CI/CD, domain + SSL + scaling, background workers
+
+### Product Systems
+Auth, payments, emails, webhooks, cron jobs, dashboards, role-based access, logging
 
 ---
 
-## 🌍 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/punyakrit-singh-makhni/)  
-- 🌐 [Portfolio](https://www.punyakrit.dev/)  
-- 🐦 [Twitter](https://x.com/punyakrit_22)  
-- ✉️ Reach me at **punyakritsinghmakhni@gmail.com**  
+## Real Products I Have Built
+
+### Schema Pilot
+A developer tool that designs and generates production-ready database schemas and backend logic.  
+Multi-tenant SaaS with auth, roles, background jobs, payments, migrations and deployment pipelines.  
+Built and maintained end-to-end by me.
+
+### Pulse
+Website uptime and performance monitoring system with real-time alerts, logs and dashboards.  
+These are not tutorials. These are running production systems.
 
 ---
 
-⚡ *I’m passionate about turning ambitious ideas into real, scalable products — and I thrive in the fast-paced world of startups.*
+## What You Get If You Work With Me
+
+• Someone who owns systems end-to-end  
+• Clean and maintainable production code  
+• Startup pace with engineering discipline  
+• Clear communication and reliability
+
+---
+
+## Let’s Connect
+
+• Portfolio → https://www.punyakrit.dev  
+• GitHub → https://github.com/punyakrit  
+• LinkedIn → https://www.linkedin.com/in/punyakrit-singh-makhni  
+• Email → punyakritsinghmakhni@gmail.com
