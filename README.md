@@ -1,65 +1,118 @@
-# 👋 Hey, I’m Punyakrit
+# 🚀 Punyakrit Singh Makhni  
 
-**Full-Stack Engineer who builds real products, not demo projects.**  
-I design, build, deploy and maintain production SaaS used by real users — from idea to revenue.
+## Full-Stack Engineer | 0→1 Product Builder | Infra-Heavy SaaS Systems  
 
-I specialize in early-stage and 0→1 systems where speed, ownership and clean engineering matter.
+I build **production-grade SaaS products** - not tutorials, not clones.
 
----
+From raw idea → architecture → database → backend → frontend → infra → deployment → monitoring.
 
-## What I Actually Do
-
-• Build startup-grade MVPs that can scale  
-• Design clean, future-proof database architectures  
-• Ship fast without creating tech debt  
-• Own production infrastructure and deployments  
-• Turn rough ideas into stable SaaS products
-
-If your product needs to go from “idea” to “real business”, this is my zone.
+If it needs to scale and survive real users, I build it properly.
 
 ---
 
-## My Stack (battle-tested)
+## 🧠 What Makes Me Different
 
-### Frontend
-Next.js, React, TypeScript, Tailwind, Shadcn UI, Framer Motion
+I don’t just write code.
 
-### Backend
-Node.js, Express, FastAPI, PostgreSQL, Supabase, Prisma
+- I design systems that scale  
+- I architect databases that won’t collapse at 10x growth  
+- I own production infrastructure  
+- I ship fast without reckless shortcuts  
+- I think in systems, not features  
 
-### Infra & DevOps
-Docker, AWS EC2, Nginx, CI/CD, domain + SSL + scaling, background workers
-
-### Product Systems
-Auth, payments, emails, webhooks, cron jobs, dashboards, role-based access, logging
-
----
-
-## Real Products I Have Built
-
-### Schema Pilot
-A developer tool that designs and generates production-ready database schemas and backend logic.  
-Multi-tenant SaaS with auth, roles, background jobs, payments, migrations and deployment pipelines.  
-Built and maintained end-to-end by me.
-
-### Pulse
-Website uptime and performance monitoring system with real-time alerts, logs and dashboards.  
-These are not tutorials. These are running production systems.
+Most developers ship features.  
+I ship **products that survive production.**
 
 ---
 
-## What You Get If You Work With Me
+# 🏗 What I Build
 
-• Someone who owns systems end-to-end  
-• Clean and maintainable production code  
-• Startup pace with engineering discipline  
-• Clear communication and reliability
+### 🚀 Startup MVPs That Can Scale
+Not throwaway prototypes - real foundations.
+
+### 🏢 Infra-Heavy SaaS Systems
+Auth, roles, payments, workers, queues, cron jobs, logs, monitoring.
+
+### 🧩 Multi-Tenant Architectures
+Clean RBAC, isolation, scalable schema design.
+
+### ⚙️ Full Deployment Pipelines
+Dockerized services, Nginx, EC2, CI/CD, domain + SSL.
 
 ---
 
-## Let’s Connect
+# ⚙️ Tech Stack (Battle-Tested)
 
-• Portfolio → https://www.punyakrit.dev  
-• GitHub → https://github.com/punyakrit  
-• LinkedIn → https://www.linkedin.com/in/punyakrit-singh-makhni  
-• Email → punyakritsinghmakhni@gmail.com
+## Frontend
+Next.js · React · TypeScript · Tailwind · Shadcn UI · Framer Motion
+
+## Backend
+Node.js · Express · FastAPI · PostgreSQL · Prisma · Supabase
+
+## Infrastructure
+Docker · AWS EC2 · Nginx · CI/CD · Background Workers · Cron Systems
+
+## Product Systems
+Authentication · Payments · Emails · Webhooks · Logging · Dashboards · Role-Based Access
+
+---
+
+# 🧩 Real Systems I’ve Built
+
+## 🔹 SchemaPilot
+
+Developer infrastructure tool.
+
+- Production-grade schema design system  
+- Backend logic generation  
+- Multi-tenant SaaS  
+- Background jobs  
+- Payment integration  
+- Deployment pipelines  
+- Full infra ownership  
+
+Designed and maintained end-to-end.
+
+---
+
+# 📈 Engineering Philosophy
+
+Speed matters.  
+Clean systems matter more.
+
+I optimize for:
+
+- Long-term maintainability  
+- Clear architecture  
+- Minimal tech debt  
+- Production reliability  
+- Startup velocity  
+
+---
+
+# 🤝 Work With Me
+
+If you are:
+
+- A founder building 0→1  
+- A startup needing real engineering ownership  
+- A team that values system design over hacky features  
+
+We’ll work well together.
+
+---
+
+# 🌐 Connect With Me
+
+**Portfolio:** https://www.punyakrit.dev  
+**GitHub:** https://github.com/punyakrit  
+**LinkedIn:** https://www.linkedin.com/in/punyakrit-singh-makhni  
+**Email:** punyakritsinghmakhni@gmail.com  
+
+---
+
+# 📅 Book a Call
+
+If you want to discuss building something serious:
+
+👉 https://calendly.com/YOUR-LINK
